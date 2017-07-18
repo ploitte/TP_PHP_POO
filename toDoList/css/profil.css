@@ -1,0 +1,46 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:  column;
+}
+h1{
+    border: 2px solid brown;
+    color: white;
+    padding: 10px;
+    border-radius: 20%;
+    background-color: burlywood;
+}
+
+.contForm{
+    background-color: burlywood;
+    height: 115px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 8px solid brown;
+    border-radius: 20%;
+}
+
+#button{
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    background-color: brown !important;
+    color: white;
+    font-weight: bolde;
+}
+
+#note tr td{
+    background-color: burlywood;
+}
+
+#sub{
+    background-color: brown;
+    color: white;
+}
